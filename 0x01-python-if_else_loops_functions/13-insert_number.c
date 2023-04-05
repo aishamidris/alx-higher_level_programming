@@ -1,5 +1,3 @@
-s (28 sloc)  677 Bytes
-
 #include "lists.h"
 
 /**
@@ -34,4 +32,3 @@ listint_t *insert_node(listint_t **head, int number)
 
 	return (new);
 }
-
